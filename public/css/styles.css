@@ -1,0 +1,40 @@
+body
+{
+	background: url("../images/background.jpg") no-repeat center fixed;
+	font-size: 1.6em;
+}
+
+.container
+{
+	text-align: center;
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+	background-color: #fff;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	padding: 10px 40px;
+}
+
+textarea
+{
+	width: 50%;
+}
+
+.panel
+{
+	border-radius: 0;
+}
+
+.pageLinks
+{
+	margin-bottom: 10px;
+}
+
+#postCommentForm
+{
+	margin-bottom: 20px;
+}
+
+h1, h2
+{
+	font-size: 2em;
+}
